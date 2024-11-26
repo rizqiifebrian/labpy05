@@ -93,7 +93,7 @@ Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
 
 3. Menambah Mahasiswa Jika Anda memilih untuk menambah mahasiswa dengan memasukkan 'T', program akan meminta Anda untuk memasukkan data:
 
-![menambahkan data]![3](https://github.com/user-attachments/assets/0b5e1b7f-4d33-4b4d-a658-d1030ae5b672)
+![3](https://github.com/user-attachments/assets/0b5e1b7f-4d33-4b4d-a658-d1030ae5b672)
 
 
    
@@ -111,19 +111,19 @@ Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
  
 7. Melihat Daftar Mahasiswa Setelah Diubah Memilih 'L' lagi untuk melihat daftar mahasiswa setelah perubahan:
 
-![lihat daftar nilai yang di ubah]![hasil u](https://github.com/user-attachments/assets/18e01475-42a0-48e6-95a3-e374842da9bc)
+]![hasil u](https://github.com/user-attachments/assets/18e01475-42a0-48e6-95a3-e374842da9bc)
 
 
 
 8. Menghapus Mahasiswa Jika Anda memilih 'H' untuk menghapus mahasiswa:
 
-![menghapus dari daftar nilai]![Screenshot 2024-11-26 144205](https://github.com/user-attachments/assets/d4102d0f-4f1a-44f9-b1c2-4a8d465c6a5c)
+![Screenshot 2024-11-26 144205](https://github.com/user-attachments/assets/d4102d0f-4f1a-44f9-b1c2-4a8d465c6a5c)
 
 
 
 9. Mencari Mahasiswa Jika Anda memilih 'C' untuk mencari mahasiswa:
 
-![mencari data mahasiswa]![Screenshot 2024-11-26 144235](https://github.com/user-attachments/assets/3b5b958e-86c9-4e9a-acee-2bc38dadb6a1)
+![Screenshot 2024-11-26 144235](https://github.com/user-attachments/assets/3b5b958e-86c9-4e9a-acee-2bc38dadb6a1)
 
 
 
