@@ -97,37 +97,37 @@ Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
 
 
    
-5. Melihat Daftar Mahasiswa Jika Anda memilih 'L', program akan menampilkan daftar mahasiswa:
+4. Melihat Daftar Mahasiswa Jika Anda memilih 'L', program akan menampilkan daftar mahasiswa:
 
 ![l](https://github.com/user-attachments/assets/27d97645-a62f-425a-8539-d4d7dfd55fac)
 
 
    
-6. Mengubah Data Mahasiswa Jika Anda memilih 'U' dan memasukkan NIM mahasiswa yang ingin diubah:
+5. Mengubah Data Mahasiswa Jika Anda memilih 'U' dan memasukkan NIM mahasiswa yang ingin diubah:
 
 ![u](https://github.com/user-attachments/assets/852df702-1479-402f-8a3f-7b29d571dd76)
 
 
  
-7. Melihat Daftar Mahasiswa Setelah Diubah Memilih 'L' lagi untuk melihat daftar mahasiswa setelah perubahan:
+6. Melihat Daftar Mahasiswa Setelah Diubah Memilih 'L' lagi untuk melihat daftar mahasiswa setelah perubahan:
 
 ![hasil u](https://github.com/user-attachments/assets/18e01475-42a0-48e6-95a3-e374842da9bc)
 
 
 
-8. Menghapus Mahasiswa Jika Anda memilih 'H' untuk menghapus mahasiswa:
+7. Menghapus Mahasiswa Jika Anda memilih 'H' untuk menghapus mahasiswa:
 
 ![Screenshot 2024-11-26 144205](https://github.com/user-attachments/assets/d4102d0f-4f1a-44f9-b1c2-4a8d465c6a5c)
 
 
 
-9. Mencari Mahasiswa Jika Anda memilih 'C' untuk mencari mahasiswa:
+8. Mencari Mahasiswa Jika Anda memilih 'C' untuk mencari mahasiswa:
 
 ![Screenshot 2024-11-26 144235](https://github.com/user-attachments/assets/3b5b958e-86c9-4e9a-acee-2bc38dadb6a1)
 
 
 
-10. Keluar dari Program Jika Anda memilih 'K', program akan berhenti:
+9. Keluar dari Program Jika Anda memilih 'K', program akan berhenti:
 
 ![Screenshot 2024-11-26 144243](https://github.com/user-attachments/assets/320f25e6-a4a3-4ce3-a18c-3c57b11ccbfb)
 
