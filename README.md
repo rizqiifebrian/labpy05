@@ -93,34 +93,41 @@ Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
 
 3. Menambah Mahasiswa Jika Anda memilih untuk menambah mahasiswa dengan memasukkan 'T', program akan meminta Anda untuk memasukkan data:
 
-![menambahkan data](https://github.com/user-attachments/assets/d1d5ca97-8d80-402c-94cc-1cb8379ec9fb)
+![menambahkan data]![3](https://github.com/user-attachments/assets/0b5e1b7f-4d33-4b4d-a658-d1030ae5b672)
+
 
    
 5. Melihat Daftar Mahasiswa Jika Anda memilih 'L', program akan menampilkan daftar mahasiswa:
 
-![lihat daftar nama](https://github.com/user-attachments/assets/326f7816-c0c7-4815-974d-f2f86557cb67)
+![lihat daftar nama](![l](https://github.com/user-attachments/assets/27d97645-a62f-425a-8539-d4d7dfd55fac)
+
 
    
 6. Mengubah Data Mahasiswa Jika Anda memilih 'U' dan memasukkan NIM mahasiswa yang ingin diubah:
 
-![mengubah data mahasiswa](https://github.com/user-attachments/assets/630a0c4f-8685-40e3-921e-b9b4fdcdd0d6)
+![mengubah data mahasiswa]![u](https://github.com/user-attachments/assets/852df702-1479-402f-8a3f-7b29d571dd76)
+
 
  
 7. Melihat Daftar Mahasiswa Setelah Diubah Memilih 'L' lagi untuk melihat daftar mahasiswa setelah perubahan:
 
-![lihat daftar nilai yang di ubah](https://github.com/user-attachments/assets/1b9e448f-2def-4a97-a647-f01bdb62ca48)
+![lihat daftar nilai yang di ubah]![hasil u](https://github.com/user-attachments/assets/18e01475-42a0-48e6-95a3-e374842da9bc)
+
 
 
 8. Menghapus Mahasiswa Jika Anda memilih 'H' untuk menghapus mahasiswa:
 
-![menghapus dari daftar nilai](https://github.com/user-attachments/assets/68000fe2-8b54-4fad-b496-89426d53e301)
+![menghapus dari daftar nilai]![Screenshot 2024-11-26 144205](https://github.com/user-attachments/assets/d4102d0f-4f1a-44f9-b1c2-4a8d465c6a5c)
+
 
 
 9. Mencari Mahasiswa Jika Anda memilih 'C' untuk mencari mahasiswa:
 
-![mencari data mahasiswa](https://github.com/user-attachments/assets/0d06ed6e-1c6c-4dc9-8861-06761a65b617)
+![mencari data mahasiswa]![Screenshot 2024-11-26 144235](https://github.com/user-attachments/assets/3b5b958e-86c9-4e9a-acee-2bc38dadb6a1)
+
 
 
 10. Keluar dari Program Jika Anda memilih 'K', program akan berhenti:
 
-![keluar dari perogram](https://github.com/user-attachments/assets/2d9a1fc3-cd85-4dca-a3cd-afb0708da91e)
+![keluar dari perogram]![Screenshot 2024-11-26 144243](https://github.com/user-attachments/assets/320f25e6-a4a3-4ce3-a18c-3c57b11ccbfb)
+
