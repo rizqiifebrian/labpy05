@@ -105,13 +105,13 @@ Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
    
 6. Mengubah Data Mahasiswa Jika Anda memilih 'U' dan memasukkan NIM mahasiswa yang ingin diubah:
 
-![mengubah data mahasiswa]![u](https://github.com/user-attachments/assets/852df702-1479-402f-8a3f-7b29d571dd76)
+![u](https://github.com/user-attachments/assets/852df702-1479-402f-8a3f-7b29d571dd76)
 
 
  
 7. Melihat Daftar Mahasiswa Setelah Diubah Memilih 'L' lagi untuk melihat daftar mahasiswa setelah perubahan:
 
-]![hasil u](https://github.com/user-attachments/assets/18e01475-42a0-48e6-95a3-e374842da9bc)
+![hasil u](https://github.com/user-attachments/assets/18e01475-42a0-48e6-95a3-e374842da9bc)
 
 
 
@@ -129,5 +129,5 @@ Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
 
 10. Keluar dari Program Jika Anda memilih 'K', program akan berhenti:
 
-![keluar dari perogram]![Screenshot 2024-11-26 144243](https://github.com/user-attachments/assets/320f25e6-a4a3-4ce3-a18c-3c57b11ccbfb)
+![Screenshot 2024-11-26 144243](https://github.com/user-attachments/assets/320f25e6-a4a3-4ce3-a18c-3c57b11ccbfb)
 
