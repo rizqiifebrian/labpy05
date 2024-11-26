@@ -99,7 +99,7 @@ Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
    
 5. Melihat Daftar Mahasiswa Jika Anda memilih 'L', program akan menampilkan daftar mahasiswa:
 
-![lihat daftar nama](![l](https://github.com/user-attachments/assets/27d97645-a62f-425a-8539-d4d7dfd55fac)
+![l](https://github.com/user-attachments/assets/27d97645-a62f-425a-8539-d4d7dfd55fac)
 
 
    
